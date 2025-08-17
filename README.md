@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Gabriel Eduardo de Oliveira Martins
+Matricula: 900323
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspecao](images/inspeção.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela do Replit](images/replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
